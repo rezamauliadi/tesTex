@@ -1,0 +1,150 @@
+\colorlet{keywordcolor}{blue!50!black}
+\colorlet{typecolor}{violet}
+\newcommand{\sourcefont}{\ttfamily\small}
+%\newcommand{\commentfont}{\slshape\rmfamily\color{black!70}}
+\newcommand{\commentfont}{\slshape\rmfamily\color{green!70!black}}
+%\renewcommand{\commentfont}{\slshape\color{black!70}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% ABS and Java code examples
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\lstdefinelanguage{ABS}{
+    keywords={assert,this,new,data,type,def,case,of,local,class,interface,
+    extends,implements,if,then,else,await,get,Fut,return,skip,while,module,
+    import,export,from,to,suspend,delta,adds,modifies,removes,original,productline,
+    features,core,corefeatures,optionalfeatures,after,when,product,hasAttribute,
+    hasMethod,hasField,hasInterface,uses,root,extension,group,allof,oneof,require,
+    stateupdate,objectupdate,classupdate,
+    exclude,original,ifin,ifout,opt,null,%critical,port,rebind,duration,deadline,now,
+    newgroup,data,thiscomp,in,joins,leaves,subtypeOf,wait,acquire,except,as,component,Pre,Abs
+    },
+    keywordstyle=\color{keywordcolor}\bf\sffamily,
+    % standard types:
+    morekeywords=[2]{Unit, Int, Bool, Rat, List, Set, Pair, Fut, Maybe, String, Triple, Either, Map},
+    keywordstyle=[2]\color{typecolor},
+    sensitive=true,
+    comment=[l]{//},
+    morecomment=[s]{/*}{*/},
+    morestring=[b]"
+}
+
+% Java 9 dialect
+\lstdefinelanguage[v9]{Java}[]{Java}{
+    morekeywords={module,requires,provides,with,exports,local,optional,service}
+}
+% ContextJ dialect
+\lstdefinelanguage[ContextJ]{Java}[]{Java}{
+    morekeywords={layer,with,without,proceed,before,after}
+}
+% FOP dialect
+\lstdefinelanguage[FOP]{Java}[]{Java}{
+    morekeywords={refines,original,Super}
+}
+% JastAdd
+\lstdefinelanguage[JastAdd]{Java}[]{Java}{
+    morekeywords={aspect,syn,inh,lazy}
+}
+
+
+\lstdefinestyle{code}{
+    basicstyle=\sourcefont\upshape,
+    keywordstyle=\color{keywordcolor}\bf\sffamily,
+    commentstyle=\commentfont,
+    classoffset=1,
+    classoffset=0,
+    columns=fullflexible,
+    mathescape=false,
+    showstringspaces=false,
+    inputencoding=utf8,
+    extendedchars,
+    xleftmargin=4pt,
+    aboveskip=8pt, % default is \medskipamount
+    xrightmargin=4pt,
+    numberstyle=\ttfamily\scriptsize\color{gray},stepnumber=1, numbersep=8pt,
+}
+
+\lstdefinestyle{abs}{
+    style=code,
+    language=ABS,
+}
+\lstdefinestyle{java}{
+    style=code,
+    language=Java
+}
+\lstdefinestyle{java9}{
+    style=code,
+    language=[v9]Java
+}
+\lstdefinestyle{aspectj}{
+    style=code,
+    language=[AspectJ]Java
+}
+\lstdefinestyle{jastadd}{
+    style=code,
+    language=[JastAdd]Java
+}
+\lstdefinestyle{contextj}{
+    style=code,
+    language=[ContextJ]Java
+}
+\lstdefinestyle{FOP}{
+    style=code,
+    language=[FOP]Java
+}
+\lstdefinestyle{scala}{
+    style=code,
+    language=Scala,
+    morekeywords={self}
+}
+
+\newcommand{\code}[2][]{\lstinline[style=code,basicstyle=\ttfamily\upshape,#1]{#2}}
+\newcommand{\java}[2][]{\code[style=java,#1]{#2}}
+\newcommand{\abs}[2][]{\code[style=abs,#1]{#2}}
+\newcommand{\scala}[2][]{\code[style=scala,#1]{#2}}
+
+\lstnewenvironment{srccode}[1][]{
+    \minipage{\linewidth}
+    \lstset{style=code,
+    %framerule=1pt,
+    backgroundcolor=\color{white},
+    rulecolor=\color{gray!50},
+    frame=tblr,
+    captionpos=b,
+    #1}
+}{\endminipage}
+
+\lstnewenvironment{abscode}[1][]{
+    \minipage{\linewidth}
+    \lstset{style=abs,
+    %framerule=1pt,
+    backgroundcolor=\color{white},
+    rulecolor=\color{gray!50},
+    frame=tblr,
+    captionpos=b,
+    #1}
+}{\endminipage}
+
+\lstnewenvironment{javacode}[1][]{
+    \minipage{\linewidth}
+    \lstset{style=java,
+    %framerule=1pt,
+    backgroundcolor=\color{gray!5},
+    rulecolor=\color{gray!50},
+    frame=tblr,
+    captionpos=b,
+    #1}
+}{\endminipage}
+
+\lstnewenvironment{jastaddcode}[1][]{
+    \minipage{\linewidth}
+    \lstset{style=jastadd,
+    %framerule=1pt,
+    backgroundcolor=\color{gray!5},
+    rulecolor=\color{gray!50},
+    frame=tblr,
+    captionpos=b,
+    #1}
+}{\endminipage}
+
+

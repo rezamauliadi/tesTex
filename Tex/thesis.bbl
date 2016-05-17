@@ -1,0 +1,148 @@
+\begin{thebibliography}{10}
+
+\bibitem{web.Odoo.OdooSalesFeatures}
+Sales features.
+\newblock \url{https://www.odoo.com/page/sales-features}.
+\newblock [Online; accessed 2-May-2016].
+
+\bibitem{web.erp.typeEnterpriseSystem}
+Three different types of enterprise systems.
+\newblock \url{https://www.odoo.com/page/sales-features}.
+\newblock [Online; accessed 2-May-2016].
+
+\bibitem{web.Odoo.whatIsOdoo}
+What is odoo.
+\newblock \url{https://odoo-community.org/}.
+\newblock [Online; accessed 2-May-2016].
+
+\bibitem{web.ANTLR.ANTRLTreeConstruction}
+ANTLR2.org.
+\newblock Antlr tree construction.
+\newblock \url{http://www.antlr2.org/doc/trees.html}.
+\newblock [Online; accessed 6-April-2016].
+
+\bibitem{web.ANTLR.aboutANTRLParser}
+ANTLR.org.
+\newblock About the antlr parser generator.
+\newblock \url{http://www.antlr.org/about.html}.
+\newblock [Online; accessed 6-April-2016].
+
+\bibitem{book.apel.FeatureOrientedSoftware}
+S.~Apel, D.~Batory, C.~K{\"a}stner, and G.~Saake.
+\newblock {\em Feature-Oriented Software Product Lines}.
+\newblock Springer, 2013.
+
+\bibitem{thesis.niken.deltaRelationalMappingUsingABS}
+N.~F. Apriani.
+\newblock {\em Delta-Relational Mapping using the Abstract Behavioral
+  Specification Language}.
+\newblock 2015.
+
+\bibitem{paper.clarke.variability}
+D.~Clarke, R.~Muschevici, J.~Proen{\c{c}}a, I.~Schaefer, and R.~Schlatte.
+\newblock Variability modelling in the abs language.
+\newblock In {\em Formal Methods for Components and Objects}, pages 204--224.
+  Springer, 2010.
+
+\bibitem{paper.czarnecki2005.mappingFeatureToModels}
+K.~Czarnecki and M.~Antkiewicz.
+\newblock Mapping features to models: A template approach based on superimposed
+  variants.
+\newblock In {\em Generative Programming and Component Engineering}, pages
+  422--437. Springer, 2005.
+
+\bibitem{book.fowler2002.patternsEnterpriseApp}
+M.~Fowler.
+\newblock {\em Patterns of enterprise application architecture}.
+\newblock Addison-Wesley Longman Publishing Co., Inc., 2002.
+
+\bibitem{paper.hanle.ABStutorial}
+R.~H{\"a}hnle.
+\newblock The abstract behavioral specification language: A tutorial
+  introduction.
+\newblock In {\em Formal Methods for Components and Objects}, pages 1--37.
+  Springer, 2013.
+
+\bibitem{book.abs.abslanguagespecification}
+HATS.
+\newblock {\em The ABS Language Specification}.
+\newblock 2013.
+
+\bibitem{paper.hedin.jastadd}
+G.~Hedin and E.~Magnusson.
+\newblock Jastadd—an aspect-oriented compiler construction system.
+\newblock {\em Science of Computer Programming}, 47(1):37--58, 2003.
+
+\bibitem{paper.hubaux2013.supportingMultiplePerspective}
+A.~Hubaux, P.~Heymans, P.-Y. Schobbens, D.~Deridder, and E.~K. Abbasi.
+\newblock Supporting multiple perspectives in feature-based configuration.
+\newblock {\em Software \& Systems Modeling}, 12(3):641--663, 2013.
+
+\bibitem{web.JastAdd.JastAddOverview}
+JastAdd.org.
+\newblock Jastadd concept overview.
+\newblock \url{http://jastadd.org/web/documentation/concept-overview.php}.
+\newblock [Online; accessed 6-April-2016].
+
+\bibitem{web.JastAdd.JastAddReferenceManual}
+JastAdd.org.
+\newblock Reference manual for jastadd 2.2.2.
+\newblock
+  \url{http://jastadd.org/web/documentation/reference-manual.php#Aspects.}
+\newblock [Online; accessed 6-April-2016].
+
+\bibitem{paper.johnsen2014.deploymentVariabilityinDeltaOriented}
+E.~B. Johnsen, R.~Schlatte, and S.~L.~T. Tarifa.
+\newblock Deployment variability in delta-oriented models.
+\newblock In {\em Leveraging Applications of Formal Methods, Verification and
+  Validation. Technologies for Mastering Change}, pages 304--319. Springer,
+  2014.
+
+\bibitem{paper.kastnerApel.FeatureOrientedSoftwareDevelopment}
+C.~K{\"a}stner and S.~Apel.
+\newblock Feature-oriented software development a short tutorial on
+  feature-oriented programming, virtual separation of concerns, and
+  variability-aware analysis, 2013.
+
+\bibitem{paper.lee.featurebinding}
+J.~Lee and K.~C. Kang.
+\newblock Feature binding analysis for product line component development.
+\newblock In {\em Software Product-Family Engineering}, pages 250--260.
+  Springer, 2003.
+
+\bibitem{paper.lee.featuremanagement}
+J.~Lee and D.~Muthig.
+\newblock Feature-oriented variability management in product line engineering.
+\newblock {\em Communications of the ACM}, 49(12):55--59, 2006.
+
+\bibitem{web.Odoo.ERPComparison}
+Odoo.
+\newblock Erp comparison white paper: Microsoft dynamics, netsuite, and odoo,
+  2016.
+
+\bibitem{book.olson2010.enterpriseIS}
+D.~L. Olson and S.~Kesharwani.
+\newblock {\em Enterprise information systems: contemporary trends and issues}.
+\newblock World Scientific, 2010.
+
+\bibitem{book.pohl2005.softwareProductLineEngineering}
+K.~Pohl, G.~B{\"o}ckle, and F.~J. van Der~Linden.
+\newblock {\em Software product line engineering: foundations, principles and
+  techniques}.
+\newblock Springer Science \& Business Media, 2005.
+
+\bibitem{paper.schulze2013.refactoringDeltaOrientedSPL}
+S.~Schulze, O.~Richers, and I.~Schaefer.
+\newblock Refactoring delta-oriented software product lines.
+\newblock In {\em Proceedings of the 12th annual international conference on
+  Aspect-oriented software development}, pages 73--84. ACM, 2013.
+
+\bibitem{paper.wong.abstools}
+P.~Y. Wong, E.~Albert, R.~Muschevici, J.~Proen{\c{c}}a, J.~Sch{\"a}fer, and
+  R.~Schlatte.
+\newblock The abs tool suite: Modelling, executing and analysing distributed
+  adaptable object-oriented systems.
+\newblock {\em International Journal on Software Tools for Technology
+  Transfer}, 14(5):567--588, 2012.
+
+\end{thebibliography}

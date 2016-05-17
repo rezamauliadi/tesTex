@@ -1,0 +1,46 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Concrete syntax
+
+\newcommand{\NT}[1]{\textit{#1}}
+%\newcommand{\TR}[1]{\texttt{\underline{\raisebox{-2.2pt}{\rule{0pt}{0pt}}#1}}}
+%\newcommand{\TR}[1]{\ensuremath{\mathtt{#1}}}
+\newcommand{\TR}[1]{\texttt{#1}}
+\newcommand{\VAR}[1]{\textsc{#1}}
+%\newcommand{\MANY}[1]{\ensuremath{\bnfmany{#1}}}
+%\newcommand{\MANYG}[1]{\ensuremath{\bnfmany{(#1)}}}
+\newcommand{\GROUP}[1]{\ensuremath{(}#1\ensuremath{)}}
+\newcommand{\MANY}[1]{#1\ensuremath{^*}}
+\newcommand{\MANYG}[1]{\GROUP{#1}\ensuremath{^*}}
+\newcommand{\PLUS}[1]{\bnfplus{#1}}
+\newcommand{\PLUSG}[1]{\bnfplus{(#1)}}
+\newcommand{\OPT}[1]{\ensuremath{[}#1\ensuremath{]}}
+\newcommand{\OPTG}[1]{\ensuremath{[}#1\ensuremath{]}}
+%\raisebox{-2pt}{\rule{0pt}{0pt}
+
+%\newcommand{\defNT}[1]{\NT{#1} &::=&}
+\newcommand{\defn}{&::=&}
+\newcommand{\defc}{\\&\multicolumn{1}{r}{\ensuremath{|}}&}
+\newcommand{\concrDefn}[1]{\defn #1}
+\newcommand{\concrCont}[1]{\defc #1}
+\newcommand{\concrNewline}[1]{\\&& #1}
+\newcommand{\simnot}{\ensuremath{\mathord{\sim}}}
+
+\newenvironment{bnfgrammar}
+{\begin{tabular}{lrl@{\hspace{3mm}}l}}
+{\end{tabular}}
+
+\newenvironment{abssyntax}
+{~\\[1ex]\noindent\textbf{Syntax:}\\[1ex]
+\begin{bnfgrammar}}
+{\end{bnfgrammar}\\[1ex]}
+
+\newenvironment{abstractgrammar}
+{\[ \begin{array}[t]{@{}lrl@{\hspace{3mm}}l@{}}}
+{\end{array}\]}
+
+%\newcommand{\type}{\ensuremath{\mathsf{Type}}\xspace}
+\newcommand{\fid}{\ensuremath{\mathsf{FID}}\xspace}
+\newcommand{\aid}{\ensuremath{\mathsf{AID}}\xspace}
+\newcommand{\aidx}{\ensuremath{\mathsf{AID}^{+}}\xspace}
+\newcommand{\name}{\ensuremath{\mathsf{Name}}\xspace}
+

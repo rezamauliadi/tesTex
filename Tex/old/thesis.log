@@ -1,0 +1,1445 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.28)  2 MAY 2016 20:20
+entering extended mode
+**thesis.tex
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\thesis.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\uithesis.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty"
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count90
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `final' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count91
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen104
+\Fld@menulength=\count92
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count96
+\c@bookmark@seq@number=\count97
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+
+Package hyperref Warning: Option `a4paper' is no longer used.
+
+Package hyperref Info: Option `colorlinks' set `false' on input line 64.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 64.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 64.
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen107
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count98
+))
+\Gin@req@height=\dimen108
+\Gin@req@width=\dimen109
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count99
+\Gm@cntv=\count100
+\c@Gm@tempcnt=\count101
+\Gm@bindingoffset=\dimen110
+\Gm@wd@mp=\dimen111
+\Gm@odd@mp=\dimen112
+\Gm@even@mp=\dimen113
+\Gm@layoutwidth=\dimen114
+\Gm@layoutheight=\dimen115
+\Gm@layouthoffset=\dimen116
+\Gm@layoutvoffset=\dimen117
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2015/09/17 v3.3-111 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen118
+\captionmargin@=\dimen119
+\captionwidth=\dimen120
+\caption@tempdima=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+)
+\c@ContinuedFloat=\count102
+Package caption Info: hyperref package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfloat\subfloat.sty"
+Package: subfloat 2003/08/21 version 2.14
+
+Package `subfloat', Version 2.14 of 2003/08/21.
+
+Package subfloat Warning: Numbers of floats not counted:
+(subfloat)                If you use one of the counters subfloatfiguremax or
+(subfloat)                subfloattablemax you will get strange error messages
+(subfloat)                containing \c@subfloatfiguremax or
+(subfloat)                \c@subfloattablemax:
+(subfloat)                Please switch on countmax or remove the code using
+(subfloat)                the counter then..
+
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\pslatex\pslatex.sty"
+Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 75.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty"
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count103
+\calc@Bcount=\count104
+\calc@Adimen=\dimen125
+\calc@Bdimen=\dimen126
+\calc@Askip=\skip44
+\calc@Bskip=\skip45
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count105
+\calc@Cskip=\skip46
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty"
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\AM@pagewidth=\dimen127
+\AM@pageheight=\dimen128
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def"
+File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks16
+\c@AM@survey=\count106
+\AM@templatesizebox=\box27
+)
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\fncychap.sty"
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip47
+\mylen=\skip48
+\myhi=\skip49
+\px=\skip50
+\py=\skip51
+\pyy=\skip52
+\pxx=\skip53
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen129
+\extrarowheight=\dimen130
+\NC@list=\toks17
+\extratabsurround=\skip54
+\backup@length=\skip55
+)
+\everycr=\toks18
+\minrowclearance=\skip56
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count107
+\float@exts=\toks19
+\float@box=\box28
+\@float@everytoks=\toks20
+\@floatcapt=\box29
+)
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip57
+\f@ncyO@elh=\skip58
+\f@ncyO@erh=\skip59
+\f@ncyO@olh=\skip60
+\f@ncyO@orh=\skip61
+\f@ncyO@elf=\skip62
+\f@ncyO@erf=\skip63
+\f@ncyO@olf=\skip64
+\f@ncyO@orf=\skip65
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count108
+\lst@gtempboxa=\box30
+\lst@token=\toks21
+\lst@length=\count109
+\lst@currlwidth=\dimen131
+\lst@column=\count110
+\lst@pos=\count111
+\lst@lostspace=\dimen132
+\lst@width=\dimen133
+\lst@newlines=\count112
+\lst@lineno=\count113
+\lst@maxwidth=\dimen134
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count114
+\lst@skipnumbers=\count115
+\lst@framebox=\box31
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyvrb\fancyvrb.sty"
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count116
+\FV@InFile=\read1
+\FV@TabBox=\box32
+\c@FancyVerbLine=\count117
+\FV@StepNumber=\count118
+\FV@OutFile=\write3
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\hhline.sty"
+Package: hhline 1994/05/23 v2.03 Table rule package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip66
+\LTright=\skip67
+\LTpre=\skip68
+\LTpost=\skip69
+\LTchunksize=\count119
+\LTcapwidth=\dimen135
+\LT@head=\box33
+\LT@firsthead=\box34
+\LT@foot=\box35
+\LT@lastfoot=\box36
+\LT@cols=\count120
+\LT@rows=\count121
+\c@LT@tables=\count122
+\c@LT@chunks=\count123
+\LT@p@ftn=\toks22
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip70
+\bibsep=\skip71
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count124
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\import\import.sty"
+Package: import 2009/03/23  v 5.1
+)
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\laporan_setting.tex
+") ("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\istilah.tex")
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\def/def-custom.tex"
+) ("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\def/def-code.tex"
+)
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\def/def-absgrammar.
+tex") ("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\thesis.aux"
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\sampul.aux")
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\judul_dalam.aux")
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\bab1-introduction.a
+ux")
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\bab2-literature-rev
+iew.aux")
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\bab3-proposed-resea
+rch-method.aux")
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\bab4-case-study.aux
+"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 41.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 41
+.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+\AtBeginShipoutBox=\box37
+Package hyperref Info: Link coloring OFF on input line 41.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count125
+)
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
+
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\thesis.out")
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\thesis.out")
+\@outlinefile=\write4
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count126
+\scratchdimen=\dimen136
+\scratchbox=\box38
+\nofMPsegments=\count127
+\nofMParguments=\count128
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count129
+\MPscratchDim=\dimen137
+\MPnumerator=\count130
+\makeMPintoPDFobject=\count131
+\everyMPtoPDFconversion=\toks24
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 398.3386pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=398.3386pt
+* \textheight=674.33032pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-11.91173pt
+* \headheight=0.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count132
+
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\sampul.tex"
+<pics/makara.png, id=144, 154.86429pt x 154.34807pt>
+File: pics/makara.png Graphic file (type png)
+ <use pics/makara.png>
+Package pdftex.def Info: pics/makara.png used on input line 14.
+(pdftex.def)             Requested size: 71.13188pt x 70.89497pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 20.
+
+[1
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <F:/Kuliah/S2/Semester 2/P
+roposal Tesis/Tulisan/berkas Tex/pics/makara.png>])
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\judul_dalam.tex"
+File: pics/makara.png Graphic file (type png)
+
+<use pics/makara.png>
+Package pdftex.def Info: pics/makara.png used on input line 12.
+(pdftex.def)             Requested size: 71.13188pt x 70.89497pt.
+ [1
+
+
+])
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 90.
+
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\thesis.toc"
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 7.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptmcm.fd"
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 7.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlptmcm.fd"
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 7.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxpsycm.fd"
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+ [2
+
+
+])
+\tf@toc=\write5
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 91.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 91.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 91.
+[3] ("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\thesis.lof")
+\tf@lof=\write6
+
+[4
+
+
+] ("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\thesis.lot")
+\tf@lot=\write7
+
+[5
+
+
+] ("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\thesis.lol"
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page vi undefined
+ on input line 1.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page vi undefined
+ on input line 2.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page vi undefined
+ on input line 3.
+
+)
+\tf@lol=\write8
+ [6
+
+
+]
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\bab1-introduction.t
+ex"
+CHAPTER 1.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 2.
+
+
+Package natbib Warning: Citation `paper.lee.featuremanagement' on page 1 undefi
+ned on input line 11.
+
+
+Package natbib Warning: Citation `book.apel.FeatureOrientedSoftware' on page 1 
+undefined on input line 13.
+
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 1 undefined
+ on input line 15.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 1 undefined 
+on input line 15.
+
+
+Package natbib Warning: Citation `book.abs.abslanguagespecification' on page 1 
+undefined on input line 15.
+
+
+Package natbib Warning: Citation `book.abs.abslanguagespecification' on page 1 
+undefined on input line 15.
+
+
+Package natbib Warning: Citation `paper.kastnerApel.FeatureOrientedSoftwareDeve
+lopment' on page 1 undefined on input line 15.
+
+<pics/hisfd4.png, id=296, 654.94687pt x 502.87875pt>
+File: pics/hisfd4.png Graphic file (type png)
+ <use pics/hisfd4.png>
+Package pdftex.def Info: pics/hisfd4.png used on input line 20.
+(pdftex.def)             Requested size: 398.3386pt x 305.85013pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.25 \begin{center}
+                    [1
+
+
+
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 26.
+
+
+Package natbib Warning: Citation `paper.lee.featurebinding' on page 2 undefined
+ on input line 26.
+
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 2 undefined
+ on input line 29.
+
+
+Package natbib Warning: Citation `paper.lee.featuremanagement' on page 2 undefi
+ned on input line 31.
+
+
+Package natbib Warning: Citation `book.apel.FeatureOrientedSoftware' on page 2 
+undefined on input line 31.
+
+
+Package natbib Warning: Citation `paper.lee.featurebinding' on page 2 undefined
+ on input line 31.
+
+
+Package natbib Warning: Citation `paper.lee.featuremanagement' on page 2 undefi
+ned on input line 31.
+
+<pics/hisfd4group3.png, id=302, 696.35156pt x 567.62062pt>
+File: pics/hisfd4group3.png Graphic file (type png)
+
+<use pics/hisfd4group3.png>
+Package pdftex.def Info: pics/hisfd4group3.png used on input line 36.
+(pdftex.def)             Requested size: 398.3386pt x 324.69904pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2 <F:/Kuliah/S2/Semester 2/Proposal Tesis/Tulisan/berkas Tex/pics/hisfd4.png>]
+
+Package natbib Warning: Citation `paper.lee.featurebinding' on page 3 undefined
+ on input line 42.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 3 undefined 
+on input line 47.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3 <F:/Kuliah/S2/Semester 2/Proposal Tesis/Tulisan/berkas Tex/pics/hisfd4group3
+.png>]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4]
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/pzccm/m/n' tried instead on input line 91.
+)
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5]
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\bab2-literature-rev
+iew.tex"
+CHAPTER 2.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 2.
+
+
+Package natbib Warning: Citation `book.apel.FeatureOrientedSoftware' on page 6 
+undefined on input line 9.
+
+
+Package natbib Warning: Citation `book.apel.FeatureOrientedSoftware' on page 6 
+undefined on input line 11.
+
+
+Package natbib Warning: Citation `paper.kastnerApel.FeatureOrientedSoftwareDeve
+lopment' on page 6 undefined on input line 11.
+
+
+Package natbib Warning: Citation `book.apel.FeatureOrientedSoftware' on page 6 
+undefined on input line 13.
+
+
+Package natbib Warning: Citation `paper.kastnerApel.FeatureOrientedSoftwareDeve
+lopment' on page 6 undefined on input line 13.
+
+
+Package natbib Warning: Citation `book.pohl2005.softwareProductLineEngineering'
+ on page 6 undefined on input line 13.
+
+
+Package natbib Warning: Citation `paper.kastnerApel.FeatureOrientedSoftwareDeve
+lopment' on page 6 undefined on input line 15.
+
+
+Package natbib Warning: Citation `paper.czarnecki2005.mappingFeatureToModels' o
+n page 6 undefined on input line 15.
+
+
+Package natbib Warning: Citation `book.apel.FeatureOrientedSoftware' on page 6 
+undefined on input line 15.
+
+
+Package natbib Warning: Citation `paper.kastnerApel.FeatureOrientedSoftwareDeve
+lopment' on page 6 undefined on input line 15.
+
+
+Package natbib Warning: Citation `book.apel.FeatureOrientedSoftware' on page 6 
+undefined on input line 15.
+
+[6
+
+
+
+]
+
+Package natbib Warning: Citation `book.apel.FeatureOrientedSoftware' on page 7 
+undefined on input line 20.
+
+
+Package natbib Warning: Citation `paper.kastnerApel.FeatureOrientedSoftwareDeve
+lopment' on page 7 undefined on input line 20.
+
+
+Package natbib Warning: Citation `book.apel.FeatureOrientedSoftware' on page 7 
+undefined on input line 20.
+
+
+Package natbib Warning: Citation `book.apel.FeatureOrientedSoftware' on page 7 
+undefined on input line 25.
+
+
+Package natbib Warning: Citation `paper.kastnerApel.FeatureOrientedSoftwareDeve
+lopment' on page 7 undefined on input line 25.
+
+<pics/ExampleFD.png, id=337, 442.65375pt x 191.9672pt>
+File: pics/ExampleFD.png Graphic file (type png)
+
+<use pics/ExampleFD.png>
+Package pdftex.def Info: pics/ExampleFD.png used on input line 34.
+(pdftex.def)             Requested size: 318.67209pt x 138.20747pt.
+
+
+Package natbib Warning: Citation `paper.kastnerApel.FeatureOrientedSoftwareDeve
+lopment' on page 7 undefined on input line 40.
+
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 7 undefined
+ on input line 48.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 7 undefined 
+on input line 48.
+
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 7 undefined
+ on input line 48.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 7 undefined 
+on input line 48.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7 <F:/Kuliah/S2/Semester 2/Proposal Tesis/Tulisan/berkas Tex/pics/ExampleFD.pn
+g>]
+
+Package natbib Warning: Citation `thesis.niken.deltaRelationalMappingUsingABS' 
+on page 8 undefined on input line 50.
+
+
+Package natbib Warning: Citation `paper.wong.abstools' on page 8 undefined on i
+nput line 50.
+
+
+Package natbib Warning: Citation `paper.wong.abstools' on page 8 undefined on i
+nput line 50.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 8 undefined 
+on input line 52.
+
+<pics/ArchitectureOfABS.png, id=344, 627.84563pt x 380.92313pt>
+File: pics/ArchitectureOfABS.png Graphic file (type png)
+
+<use pics/ArchitectureOfABS.png>
+Package pdftex.def Info: pics/ArchitectureOfABS.png used on input line 57.
+(pdftex.def)             Requested size: 318.67209pt x 193.33823pt.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 8 undefined 
+on input line 63.
+
+
+LaTeX Warning: Reference `CGABS' on page 8 undefined on input line 66.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8 <F:/Kuliah/S2/Semester 2/Proposal Tesis/Tulisan/berkas Tex/pics/Architecture
+OfABS.png>]
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 9 undefined
+ on input line 71.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 9 undefined 
+on input line 71.
+
+<pics/RelationshipFourLanguages.png, id=356, 767.86874pt x 349.305pt>
+File: pics/RelationshipFourLanguages.png Graphic file (type png)
+
+<use pics/RelationshipFourLanguages.png>
+Package pdftex.def Info: pics/RelationshipFourLanguages.png used on input line 
+91.
+(pdftex.def)             Requested size: 278.83578pt x 126.84233pt.
+
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 9 undefined
+ on input line 97.
+
+
+Package natbib Warning: Citation `paper.johnsen2014.deploymentVariabilityinDelt
+aOriented' on page 9 undefined on input line 102.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9 <F:/Kuliah/S2/Semester 2/Proposal Tesis/Tulisan/berkas Tex/pics/Relationship
+FourLanguages.png>]
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 10 undefine
+d on input line 108.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 10 undefined
+ on input line 108.
+
+
+Package natbib Warning: Citation `thesis.niken.deltaRelationalMappingUsingABS' 
+on page 10 undefined on input line 108.
+
+
+LaTeX Warning: Reference `grammarFM' on page 10 undefined on input line 110.
+
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 10 undefine
+d on input line 110.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 10 undefined
+ on input line 110.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10] <pics/grammarFM.png, id=366, 581.92406pt x 292.09125pt>
+File: pics/grammarFM.png Graphic file (type png)
+
+<use pics/grammarFM.png>
+Package pdftex.def Info: pics/grammarFM.png used on input line 128.
+(pdftex.def)             Requested size: 358.50229pt x 179.94925pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 129.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 129.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 129.
+
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 11 undefine
+d on input line 134.
+
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 143.
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 11 undefined
+ on input line 143.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 11 undefined
+ on input line 143.
+
+
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\src/AccountFeatureM
+odel.abs"
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 9.85492pt on input line 1.
+)
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 11 undefine
+d on input line 146.
+
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 11 undefine
+d on input line 146.
+
+
+Package natbib Warning: Citation `paper.johnsen2014.deploymentVariabilityinDelt
+aOriented' on page 11 undefined on input line 146.
+
+
+Package natbib Warning: Citation `paper.schulze2013.refactoringDeltaOrientedSPL
+' on page 11 undefined on input line 146.
+
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 11 undefine
+d on input line 146.
+
+
+Package natbib Warning: Citation `paper.kastnerApel.FeatureOrientedSoftwareDeve
+lopment' on page 11 undefined on input line 146.
+
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 11 undefine
+d on input line 146.
+
+
+Package natbib Warning: Citation `paper.schulze2013.refactoringDeltaOrientedSPL
+' on page 11 undefined on input line 146.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11 <F:/Kuliah/S2/Semester 2/Proposal Tesis/Tulisan/berkas Tex/pics/grammarFM.p
+ng>]
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 12 undefine
+d on input line 148.
+
+<pics/applicationOfDelta2.png, id=388, 859.71187pt x 210.7875pt>
+File: pics/applicationOfDelta2.png Graphic file (type png)
+
+<use pics/applicationOfDelta2.png>
+Package pdftex.def Info: pics/applicationOfDelta2.png used on input line 153.
+(pdftex.def)             Requested size: 358.50229pt x 87.89973pt.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 12 undefined
+ on input line 159.
+
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 12 undefine
+d on input line 162.
+
+
+Package natbib Warning: Citation `paper.johnsen2014.deploymentVariabilityinDelt
+aOriented' on page 12 undefined on input line 162.
+
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 12 undefine
+d on input line 165.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 12 undefined
+ on input line 165.
+
+
+Package natbib Warning: Citation `paper.johnsen2014.deploymentVariabilityinDelt
+aOriented' on page 12 undefined on input line 165.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 12 undefined
+ on input line 165.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 12 undefined
+ on input line 167.
+
+
+Package natbib Warning: Citation `paper.johnsen2014.deploymentVariabilityinDelt
+aOriented' on page 12 undefined on input line 167.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12 <F:/Kuliah/S2/Semester 2/Proposal Tesis/Tulisan/berkas Tex/pics/application
+OfDelta2.png>]
+<pics/connectionFmodDmodCL2.png, id=397, 828.84656pt x 278.54062pt>
+File: pics/connectionFmodDmodCL2.png Graphic file (type png)
+
+<use pics/connectionFmodDmodCL2.png>
+Package pdftex.def Info: pics/connectionFmodDmodCL2.png used on input line 182.
+
+(pdftex.def)             Requested size: 278.83578pt x 93.70375pt.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 13 undefined
+ on input line 188.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 13 undefined
+ on input line 197.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 13 undefined
+ on input line 197.
+
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\src/AccountPL.abs")
+
+Package natbib Warning: Citation `paper.clarke.variability' on page 13 undefine
+d on input line 201.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 13 undefined
+ on input line 201.
+
+
+Package natbib Warning: Citation `paper.johnsen2014.deploymentVariabilityinDelt
+aOriented' on page 13 undefined on input line 201.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[13 <F:/Kuliah/S2/Semester 2/Proposal Tesis/Tulisan/berkas Tex/pics/connectionF
+modDmodCL2.png>]
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 14 undefined
+ on input line 209.
+
+
+Package natbib Warning: Citation `paper.hanle.ABStutorial' on page 14 undefined
+ on input line 209.
+
+
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\src/AccountProducts
+.abs")
+
+Package natbib Warning: Citation `paper.wong.abstools' on page 14 undefined on 
+input line 215.
+
+<pics/ABScompilerFlow.png, id=414, 255.95625pt x 231.86626pt>
+File: pics/ABScompilerFlow.png Graphic file (type png)
+
+<use pics/ABScompilerFlow.png>
+Package pdftex.def Info: pics/ABScompilerFlow.png used on input line 220.
+(pdftex.def)             Requested size: 199.1693pt x 180.42331pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14 <F:/Kuliah/S2/Semester 2/Proposal Tesis/Tulisan/berkas Tex/pics/ABScompiler
+Flow.png>]
+
+Package natbib Warning: Citation `paper.wong.abstools' on page 15 undefined on 
+input line 230.
+
+
+Package natbib Warning: Citation `thesis.niken.deltaRelationalMappingUsingABS' 
+on page 15 undefined on input line 232.
+
+
+Package natbib Warning: Citation `paper.wong.abstools' on page 15 undefined on 
+input line 232.
+
+
+Package natbib Warning: Citation `paper.hedin.jastadd' on page 15 undefined on 
+input line 232.
+
+
+Package natbib Warning: Citation `web.ANTLR.aboutANTRLParser' on page 15 undefi
+ned on input line 232.
+
+
+Package natbib Warning: Citation `web.ANTLR.ANTRLTreeConstruction' on page 15 u
+ndefined on input line 232.
+
+<pics/ABSastHierarchy.png, id=427, 614.295pt x 416.30531pt>
+File: pics/ABSastHierarchy.png Graphic file (type png)
+
+<use pics/ABSastHierarchy.png>
+Package pdftex.def Info: pics/ABSastHierarchy.png used on input line 239.
+(pdftex.def)             Requested size: 318.67209pt x 215.96547pt.
+
+
+Package natbib Warning: Citation `paper.wong.abstools' on page 15 undefined on 
+input line 247.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15 <F:/Kuliah/S2/Semester 2/Proposal Tesis/Tulisan/berkas Tex/pics/ABSastHiera
+rchy.png>]
+
+Package natbib Warning: Citation `web.JastAdd.JastAddOverview' on page 16 undef
+ined on input line 249.
+
+
+Package natbib Warning: Citation `web.JastAdd.JastAddOverview' on page 16 undef
+ined on input line 251.
+
+
+Package natbib Warning: Citation `thesis.niken.deltaRelationalMappingUsingABS' 
+on page 16 undefined on input line 251.
+
+
+Package natbib Warning: Citation `web.JastAdd.JastAddOverview' on page 16 undef
+ined on input line 253.
+
+
+Package natbib Warning: Citation `thesis.niken.deltaRelationalMappingUsingABS' 
+on page 16 undefined on input line 253.
+
+
+Package natbib Warning: Citation `web.JastAdd.JastAddReferenceManual' on page 1
+6 undefined on input line 255.
+
+
+Package natbib Warning: Citation `web.JastAdd.JastAddReferenceManual' on page 1
+6 undefined on input line 255.
+
+
+Package natbib Warning: Citation `book.apel.FeatureOrientedSoftware' on page 16
+ undefined on input line 265.
+
+
+Package natbib Warning: Citation `paper.lee.featurebinding' on page 16 undefine
+d on input line 265.
+
+
+Package natbib Warning: Citation `paper.lee.featuremanagement' on page 16 undef
+ined on input line 265.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16]
+
+Package natbib Warning: Citation `paper.lee.featuremanagement' on page 17 undef
+ined on input line 270.
+
+
+Package natbib Warning: Citation `paper.lee.featurebinding' on page 17 undefine
+d on input line 270.
+
+
+Package natbib Warning: Citation `paper.lee.featuremanagement' on page 17 undef
+ined on input line 270.
+
+
+Package natbib Warning: Citation `paper.lee.featuremanagement' on page 17 undef
+ined on input line 270.
+
+File: pics/hisfd4group3.png Graphic file (type png)
+<use pics/hisfd4group3.png>
+Package pdftex.def Info: pics/hisfd4group3.png used on input line 277.
+(pdftex.def)             Requested size: 318.67209pt x 259.75749pt.
+
+
+Package natbib Warning: Citation `paper.lee.featurebinding' on page 17 undefine
+d on input line 283.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18]
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\bab3-proposed-resea
+rch-method.tex"
+CHAPTER 3.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 2.
+
+) [19
+
+
+
+]
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\bab4-case-study.tex
+"
+CHAPTER 4.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\uppercase' on input line 2.
+
+
+Package natbib Warning: Citation `web.Odoo.whatIsOdoo' on page 20 undefined on 
+input line 9.
+
+
+Package natbib Warning: Citation `web.Odoo.ERPComparison' on page 20 undefined 
+on input line 9.
+
+
+Package natbib Warning: Citation `web.Odoo.whatIsOdoo' on page 20 undefined on 
+input line 9.
+
+
+Package natbib Warning: Citation `web.Odoo.OdooSalesFeatures' on page 20 undefi
+ned on input line 16.
+
+[20
+
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21])
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22]
+No file thesis.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\thesis.aux"
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\sampul.aux")
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\judul_dalam.aux")
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\bab1-introduction.a
+ux")
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\bab2-literature-rev
+iew.aux")
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\bab3-proposed-resea
+rch-method.aux")
+("F:\Kuliah\S2\Semester 2\Proposal Tesis\Tulisan\berkas Tex\bab4-case-study.aux
+"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 93C9720E6A996D4B0638101B111C41EA;2607.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
+ ) 
+Here is how much of TeX's memory you used:
+ 11284 strings out of 493921
+ 169948 string characters out of 3147285
+ 295237 words of memory out of 3000000
+ 14213 multiletter control sequences out of 15000+200000
+ 56017 words of font info for 86 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 44i,11n,52p,1022b,1195s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
+mb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (29 pages, 645469 bytes).
+PDF statistics:
+ 513 PDF objects out of 1000 (max. 8388607)
+ 109 named destinations out of 1000 (max. 500000)
+ 344 words of extra memory for PDF output out of 10000 (max. 10000000)
+

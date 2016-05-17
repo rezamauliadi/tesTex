@@ -1,0 +1,4 @@
+product CheckingAccount (Type{i=0},Check);
+product AccountWithFee (Type{i=0},Check,Fee{amount=1});
+product AccountWithOverdraft (Type{i=0},Check,Overdraft);
+product SavingWithOverdraft (Type{i=1},Save,Overdraft);

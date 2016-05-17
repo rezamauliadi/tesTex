@@ -1,0 +1,64 @@
+%-----------------------------------------------------------------------------%
+\chapter{\babTiga}
+%-----------------------------------------------------------------------------%
+Based on the research background, questions, goals, and scope that have been stated on the previous chapter, the research methodology which used in this research is as follows.
+
+\begin{figure}
+	\centering
+	\includegraphics[width=1\textwidth]
+	{pics/ResearchFlow2.png}
+	\caption{Stages of Research}
+	\label{fig:researchMethodFig}
+\end{figure}
+
+As shown in Figure \ref{fig:researchMethodFig}, there are 10 stages that must be done in this research. It begin with the literature review to get theories which can be used as basis of this research, such as definitions, related works, and so on. Then, the feature grouping mechanisms will be made. After that, the tools are implemented. There are two tools used in this research. First, tool for generating the feature grouping mechanisms from the feature model using ABS tools. Second, tool for visualizing the grouped feature. In another word, the tool is an user interface for the features selection. Then, the tools will be tested using case studies. There are two case studies used, Charity Organization System and Odoo Sales module. Then, the tools along with the grouping mechanisms will be analyzed. After that, the grouping mechanisms will be evaluated. Finally, the report of this research will be written along with the conclusion.
+
+%-----------------------------------------------------------------------------%
+\section{Literature Review}
+%-----------------------------------------------------------------------------%
+At this stage, a literature study will be conducted. The sources the literature study come from a wide range, such as books, scientific articles, papers, and web to get information and knowledge related which used as the supporting theory required to perform this research. The supporting knowledge needed are about the software product line (SPL), Abstract Behavioral Specification (ABS) and its SPL support, related works that have been conducted about grouping features, and enterprise management software.
+
+%-----------------------------------------------------------------------------%
+\section{Creating Feature Grouping Mechanism}
+%-----------------------------------------------------------------------------%
+At this stage, the feature grouping mechanisms will be made. The feature grouping mechanisms will be made using features on the case studies (Section \ref{casestudy}). The stage of creating feature grouping mechanisms conducted first because the result of this stage will be used as basis to implement the tools and evaluating the result.
+
+%-----------------------------------------------------------------------------%
+\section{Implement Tool for Grouping in ABS Tools}
+%-----------------------------------------------------------------------------%
+After the feature grouping mechanisms are made, next stage is implementing tool for grouping in ABS tools. ABS tools have ABS compiler back-end (code generator) which using JastAdd as the tool to generate other languages. It can be used to implement the grouping mechanisms and generate another output.
+
+%-----------------------------------------------------------------------------%
+\section{Implement User Interface for Selecting Feature}
+%-----------------------------------------------------------------------------%
+The next stage is implementing the user interface for selecting features (in ABS term, product selection). As stated in previous section that the grouping mechanisms should be made concrete. By using web application, the features that have been grouped can be shown. The inputs are features that have been grouped from the previous stage.
+
+%-----------------------------------------------------------------------------%
+\section{Test the Tools Using Case Studies}
+%-----------------------------------------------------------------------------%
+Tools then will be tested using case studies. There are two case studies used in this research, Charity Organization System and Odoo Sales module (Section \ref{casestudy}). 
+
+	%-----------------------------------------------------------------------------%
+	\subsection{Test Using Charity Organization System}
+	%-----------------------------------------------------------------------------%
+	Charity Organization System (COS) will be used to see if the tools can group features using the grouping mechanisms, visualize them using the user interface, and conduct the product selection process. COS is used because it has been developed by researchers in RSE Lab in Faculty of Computer Science UI using SPL approach and ABS language.
+	
+	%-----------------------------------------------------------------------------%
+	\subsection{Test Using Odoo Sales Module}
+	%-----------------------------------------------------------------------------%
+	To get a broader evaluation of the grouping mechanisms and the tools made, a test using Odoo Sales module will be conducted. Odoo Sales module has no ABS code implemented, but it has features which can be used to evaluate the grouping mechanisms and represent a part of an enterprise management system.
+
+%-----------------------------------------------------------------------------%
+\section{Analyze the Tools and the Outputs}
+%-----------------------------------------------------------------------------%
+Next stage is analyzing the outputs of the tools. The tools need to be analyzed to see if they can generate the grouped features which fit the grouping mechanisms and visualize the grouped features along with conducting the selection of features process (product selection).
+
+%-----------------------------------------------------------------------------%
+\section{Evaluate the Grouping Mechanism}
+%-----------------------------------------------------------------------------%
+After the tools have been made based on the grouping mechanisms and provide expected result, the next stage is evaluating the grouping mechanisms. Each grouping mechanism will be evaluated using several terms that related to grouping process, i.e. concerns of users, complexity of grouping, degree of specialization, and the abstraction principle. The evaluating process goal is not to find the best grouping mechanism, but it is to determine the advantages and disadvantages of each grouping mechanism using such terms.
+
+%-----------------------------------------------------------------------------%
+\section{Write Report and Conclusion}
+%-----------------------------------------------------------------------------%
+Finally, at this stage, the report of this research will be written along with the conclusion and the findings obtained during conducting this research.

@@ -1,0 +1,13 @@
+\contentsline {chapter}{HALAMAN JUDUL}{i}{section*.2}
+\contentsline {chapter}{Table of Contents}{ii}{figure.caption.3}
+\contentsline {chapter}{List of Figures}{iii}{figure.caption.3}
+\contentsline {chapter}{List of Tables}{iv}{figure.caption.3}
+\contentsline {chapter}{List of Listings}{v}{figure.caption.3}
+\contentsline {chapter}{\numberline {1}\uppercase {Introduction}}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Research Questions}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Research Goals}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}Benefits of Research}{4}{section.1.4}
+\contentsline {section}{\numberline {1.5}Scope of Research}{5}{section.1.5}
+\contentsline {section}{\numberline {1.6}Outline}{5}{section.1.6}
+\contentsline {chapter}{References}{6}{section.1.6}

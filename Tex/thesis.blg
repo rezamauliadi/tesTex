@@ -1,0 +1,17 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: sampul.aux
+A level-1 auxiliary file: judul_dalam.aux
+A level-1 auxiliary file: bab1-introduction.aux
+A level-1 auxiliary file: bab2-literature-review.aux
+A level-1 auxiliary file: bab3-proposed-research-method.aux
+A level-1 auxiliary file: bab4-case-study.aux
+The style file: abbrv.bst
+Database file #1: bib.bib
+Warning--entry type for "paper.kastnerApel.FeatureOrientedSoftwareDevelopment" isn't style-file defined
+--line 130 of file bib.bib
+Warning--to sort, need author or key in web.Odoo.whatIsOdoo
+Warning--to sort, need author or key in web.erp.typeEnterpriseSystem
+Warning--to sort, need author or key in web.Odoo.OdooSalesFeatures
+Warning--empty publisher in thesis.niken.deltaRelationalMappingUsingABS
+Warning--empty publisher in book.abs.abslanguagespecification
+(There were 6 warnings)
